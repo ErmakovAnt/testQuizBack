@@ -1,0 +1,98 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Чему равно 2 && 1 && null && 0 && undefined ?",
+      "answers": [
+        {
+          "title": "2",
+          "correct": false
+        },
+        {
+          "title": "1",
+          "correct": false
+        },
+        {
+          "title": "null",
+          "correct": true
+        },
+        {
+          "title": "0",
+          "correct": false
+        },
+        {
+          "title": "undefined",
+          "correct": false
+        },
+        {
+          "title": "false",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Что делает оператор ===?",
+      "answers": [
+        {
+          "title": "Сравнивает по ссылке, а не по значению.",
+          "correct": false
+        },
+        {
+          "title": "Сравнивает без приведения типа.",
+          "correct": true
+        },
+        {
+          "title": "Нет такого оператора.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Что такое ECMAScript?",
+      "answers": [
+        {
+          "title": "Новый язык программирования.",
+          "correct": false
+        },
+        {
+          "title": "Переработанная реализация Javascript.",
+          "correct": false
+        },
+        {
+          "title": "Спецификация языка Javascript.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Верно ли, что null == undefined?",
+      "answers": [
+        {
+          "title": "Да",
+          "correct": true
+        },
+        {
+          "title": "Нет",
+          "correct": false
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "2023-08-09T16:52:41.576Z",
+      "result": 0
+    },
+    {
+      "id": "2023-08-09T16:52:57.557Z",
+      "result": 25
+    },
+    {
+      "id": "2023-08-09T16:53:44.914Z",
+      "result": "50%"
+    }
+  ]
+}
